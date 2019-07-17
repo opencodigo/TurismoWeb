@@ -1,0 +1,30 @@
+Nombres de la pagina web:
+-	Peru Reise
+-	Reisen Tours
+-	Traver Lovers
+-	Travel Boots
+-	Reisen a Peru
+-	Wissen Peru
+-	Think turismo
+-	Destino Travel
+-	Tutur
+-	Youtur
+-	Turtur
+-	Puriyturs
+-	Seconsturs
+-	Grand tours
+-	Traveledperu
+Requerimientos Cliente:Turista
+1.	Cliente selecciona la cantidad de personas que viajaran 
+2.	Cliente selecciona el lugar turístico de viaje
+3.	Cliente verifica u observa los precios de destino y la cantidad de días que deseara quedarse.
+4.	Cliente selecciona la fecha en el que v a realizar su viaje.
+5.	Cliente observa detalles o horarios en los que las agencias planificaron salidas de campo.
+6.	Cliente observa las actividades que realizaran cada agencia de viaje turístico.
+7.	Cliente verifica las observaciones vistos buenos de cada agencia.
+Requerimientos de la pagweb:
+1.	Mostrar ubicaciones de las agencias turísticas según localización.
+2.	Mostrar listado de lugares turísticos horarios y días de salida
+3.	Mostrar listado de agencias según el destino marcado
+4.	Mostrar costos por día de estancia del turista
+5.	
